@@ -1,6 +1,6 @@
 # SignUp-Form
-This a sign up form using Reactjs and Material UI. This page looks like this when rendered:
-
+This a sign up form using Reactjs and Material UI. To deploy the website locally, clone the repo and run npm install.
+This page looks like this when rendered:
 ![Screenshot from 2021-11-24 10-44-39](https://user-images.githubusercontent.com/33829355/143196059-d22b5d5c-b60e-4c79-a93a-48a6b072f44b.png)
 
 When the user no or some of the inputs is/are missing, the signup button is dissabled:
